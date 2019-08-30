@@ -9,6 +9,12 @@
     <p>It was a dark and stormy night...</p>
     <p>Deep in the mountains of Florida...</p>
     <p>There was a little old lady living in a cottage and she heard a knocking outside her door.</p>
-	<img src="https://longislandweekly.com/wp-content/uploads/2017/10/AntiMonsterSpray_A.jpg"> 
+	<img src="body {
+  color: white;
+  background-color: #333;
+  font-size: 150%;
+  font-family: 'Satisfy', cursive;
+  margin: 5em 25%;
+} 
  </body>
 </html>
